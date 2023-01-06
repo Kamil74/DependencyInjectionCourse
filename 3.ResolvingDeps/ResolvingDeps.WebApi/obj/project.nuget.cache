@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "87V2jsIGyGFoaDEBDrCVbqGy8PJWP5rkasUVuM5I+pHjCEQ+sF85N94A/Kh/Oafm8HXzeERUhyX2AHfB90GVdg==",
+  "success": true,
+  "projectFilePath": "D:\\office\\Dependency injection course code - 3\\3.ResolvingDeps\\ResolvingDeps.WebApi\\ResolvingDeps.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafim\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

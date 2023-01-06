@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Q1SgaTZbq8tm96fTA1+UbQfRgQ5iOB6PvapW31kgHVlycW1c7n4OdP+7K3Ll1wQEUXwJVSeHJZfj58OeuygFw==",
+  "success": true,
+  "projectFilePath": "D:\\office\\Dependency injection course code - 3\\4.DeepDive\\Weather.Api\\Weather.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafim\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

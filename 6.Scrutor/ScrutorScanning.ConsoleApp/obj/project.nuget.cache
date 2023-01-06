@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TSmg7v9wNM+av4aVys429SdG31rljjvFiXQa8W2Y4EyfPTT2c3x3Ig94J4uKvg64TyzFykm+iLAkDsNEPkwAbg==",
+  "success": true,
+  "projectFilePath": "D:\\office\\Dependency injection course code - 3\\6.Scrutor\\ScrutorScanning.ConsoleApp\\ScrutorScanning.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafim\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.1.6\\microsoft.extensions.dependencymodel.3.1.6.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\scrutor\\3.3.0\\scrutor.3.3.0.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
